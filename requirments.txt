@@ -1,7 +1,0 @@
-streamlit
-PyPDF2
-langchain
-faiss-cpu
-openai==0.28
-langchain-community
-tiktoken
